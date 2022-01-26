@@ -1,0 +1,3 @@
+username=u1 password=p1 firstName=jkhsdf lastName=jksdf 
+friendReq=
+friends=
